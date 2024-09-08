@@ -2,6 +2,7 @@ GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
 ---
 
 ![微信截图_20240908221413](https://github.com/user-attachments/assets/8e34a3fe-5dfa-4424-8657-7290d5a0248a)
+
 Instruction
 ---
 The rapid advancement of video generation models has made it increasingly challenging to distinguish AI-generated videos from real ones. This issue underscores the urgent need for effective AI-generated video detectors to prevent the dissemination of false information through such videos. However, the development of high-performance generative video detectors is currently impeded by the lack of large-scale, high-quality datasets specifically designed for generative video detection. To this end, we introduce GenVidBench, a challenging AI-generated video detection dataset with several key advantages:
