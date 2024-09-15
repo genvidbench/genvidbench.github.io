@@ -3,7 +3,7 @@ Zhenliang Ni∗, Qiangyu Yan∗, Tianning Yuan, Mouxiao Huang, Yehui Tang, Haili
 
 Huawei Noah’s Ark Lab
 
-Download: Updating...
+Download: https://pan.baidu.com/s/1F1ZV_-pQ-fJXZ8clOKZx_g?pwd=4sy3 password: 4sy3
 Paper: Updating...
 
 ![微信截图_20240908221413](https://github.com/user-attachments/assets/8e34a3fe-5dfa-4424-8657-7290d5a0248a)
