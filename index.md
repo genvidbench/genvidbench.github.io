@@ -1,8 +1,8 @@
 ## <center> **GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video**
 
-Zhenliang Ni∗, Qiangyu Yan∗, Tianning Yuan, Mouxiao Huang, Yehui Tang, Hailin Hu, Xinghao Chen, Yunhe Wang†
+<center> Zhenliang Ni∗, Qiangyu Yan∗, Tianning Yuan, Mouxiao Huang, Yehui Tang, Hailin Hu, Xinghao Chen, Yunhe Wang† </center>
 
-Huawei Noah’s Ark Lab
+<center> Huawei Noah’s Ark Lab </center>
 
 Dataset: [Download](https://pan.baidu.com/s/1F1ZV_-pQ-fJXZ8clOKZx_g?pwd=4sy3)    Password: 4sy3
 
