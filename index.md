@@ -1,6 +1,7 @@
 GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
 ---
 <center> Zhenliang Ni∗, Qiangyu Yan∗, Tianning Yuan, Mouxiao Huang, Yehui Tang, </center>
+
 <center> Hailin Hu, Xinghao Chen, Yunhe Wang† </center>
 
 <center> Huawei Noah’s Ark Lab </center>
