@@ -1,4 +1,5 @@
-<center> **GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video </center>
+<center> GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video </center>
+
 
 <center> Zhenliang Ni∗, Qiangyu Yan∗, Tianning Yuan, Mouxiao Huang, Yehui Tang, Hailin Hu, Xinghao Chen, Yunhe Wang† </center>
 
