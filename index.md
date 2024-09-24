@@ -4,9 +4,9 @@ GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
 
 <center> Huawei Noah’s Ark Lab </center>
 
-<center> [Download](https://pan.baidu.com/s/1F1ZV_-pQ-fJXZ8clOKZx_g?pwd=4sy3)    Password: 4sy3 </center>
+[Download](https://pan.baidu.com/s/1F1ZV_-pQ-fJXZ8clOKZx_g?pwd=4sy3) 
 
-<center> Paper: Updating... </center>
+Paper: Updating... 
 
 ![微信截图_20240908221413](https://github.com/user-attachments/assets/8e34a3fe-5dfa-4424-8657-7290d5a0248a)
 
