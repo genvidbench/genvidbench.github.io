@@ -1,7 +1,7 @@
 GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
 ---
 
-Dataset: [Download](https://pan.baidu.com/s/1F1ZV_-pQ-fJXZ8clOKZx_g?pwd=4sy3) 
+Dataset: [Download](https://github.com/genvidbench/GenVidBench)
 
 Paper: Updating... 
 
