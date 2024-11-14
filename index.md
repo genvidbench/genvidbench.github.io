@@ -1,5 +1,6 @@
 GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
 ---
+Zhen-Liang Ni*, Qiangyu Yan*, Tianning Yuan, Mouxiao Huang, Yehui Tang, Hailin Hu, Xinghao Chen, Yunhe Wang‡
 
 Dataset: [Download](https://github.com/genvidbench/GenVidBench)
 
