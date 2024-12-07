@@ -22,4 +22,4 @@ Reference
 
 License
 ---
-Updating...
+CC BY-NC 4.0
