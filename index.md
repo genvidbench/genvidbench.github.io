@@ -1,10 +1,11 @@
 GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
 ---
-Zhen-Liang Ni, Qiangyu Yan, Tianning Yuan, Mouxiao Huang, Yehui Tang, Hailin Hu, Xinghao Chen, Yunhe Wang‡
+Zhen-Liang Ni\*, Qiangyu Yan\*, Tianning Yuan, Mouxiao Huang, Yehui Tang, Hailin Hu†, Xinghao Chen†, Yunhe Wang†
 
-Dataset: [Download](https://github.com/genvidbench/GenVidBench)
+<div align="center"> [GitHub](https://github.com/genvidbench/GenVidBench) </div>
+<div align="center"> [Download](https://github.com/genvidbench/GenVidBench) </div>    
+<div align="center"> [Paper](https://arxiv.org/abs/2501.11340) </div>
 
-Paper: Updating... 
 
 ![微信截图_20240908221413](https://github.com/user-attachments/assets/8e34a3fe-5dfa-4424-8657-7290d5a0248a)
 
@@ -14,11 +15,26 @@ The rapid advancement of video generation models has made it increasingly challe
 
 News
 ---
-Updating...
+2025/02/11: Update the download link and fixed the bug. Note that we uploaded the ID of Pair1 in the original dataset to path 'data/sampled_dataset_uuid.zip'. Due to copyright restrictions, We can't provide these videos directly. You can select the corresponding video from these three data sets Vript/HD-VG-130M/VidProM based on these IDs. 
+
+2025/01/25: The training code is released.
+
+2025/01/20: The paper is published at https://arxiv.org/abs/2501.11340.
 
 Reference
 ---
-
+✨ If you find our data helpful, please cite our paper or point a star. Thank you very much!
+```
+@misc{ni2025genvidbenchchallengingbenchmarkdetecting,
+      title={GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video}, 
+      author={Zhenliang Ni and Qiangyu Yan and Mouxiao Huang and Tianning Yuan and Yehui Tang and Hailin Hu and Xinghao Chen and Yunhe Wang},
+      year={2025},
+      eprint={2501.11340},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.11340}, 
+}
+```
 
 License
 ---
