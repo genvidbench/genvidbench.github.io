@@ -1,8 +1,3 @@
-.site-title {
-  text-align: center;
-  font-size: 2em;
-  font-weight: bold;
-}
 <div align="center">
   <h1>GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video</h1>
 
