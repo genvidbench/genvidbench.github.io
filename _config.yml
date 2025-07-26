@@ -1,5 +1,5 @@
-remote_theme: minima
+remote_theme: jekyll-theme-cayman
 font_family: "Times New Roman"
-title: GenVidBench:A Challenging Benchmark for Detecting AI-Generated Video
+title: GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
 
 
