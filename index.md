@@ -1,8 +1,11 @@
 <div align="center">
-  <h1>A Challenging Benchmark for Detecting AI-Generated Video</h1>
+  <h1>GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video</h1>
 
   <p>Zhen-Liang Ni*, Qiangyu Yan*, Tianning Yuan, Mouxiao Huang, Yehui Tang</p>
   <p>Hailin Hu✉️, Xinghao Chen✉️, Yunhe Wang✉️</p>
+  <p>
+  ▶ Huawei Noah's Ark Lab
+  </p>
 </div>
 
 
