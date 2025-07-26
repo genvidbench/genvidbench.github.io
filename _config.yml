@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-cayman
+remote_theme: beautiful-jekyll
 font_family: "Times New Roman"
 title: GenVidBench: A Challenging Benchmark for Detecting Generated Video
 
