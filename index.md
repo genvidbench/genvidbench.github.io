@@ -2,8 +2,9 @@
   <h2>GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video</h2>
 
   <p>Zhen-Liang Ni*, Qiangyu Yan*, Tianning Yuan, Mouxiao Huang, Yehui Tang</p>
-  <p>Hailin Hu†, Xinghao Chen†, Yunhe Wang†</p>
+  <p>Hailin Hu✉️, Xinghao Chen✉️, Yunhe Wang✉️</p>
 </div>
+
 
 <p align="center">
   <a href="https://github.com/genvidbench/GenVidBench" target="_blank">
