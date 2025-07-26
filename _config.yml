@@ -1,5 +1,4 @@
-remote_theme: just-the-docs/just-the-docs
+remote_theme: beautiful-jekyll
 title: GenVidBench
-color_scheme: dark
 font_family: "Times New Roman"
 
