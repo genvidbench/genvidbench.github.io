@@ -1,13 +1,25 @@
-GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video
----
-Zhen-Liang Ni\*, Qiangyu Yan\*, Tianning Yuan, Mouxiao Huang, Yehui Tang, Hailin Hu†, Xinghao Chen†, Yunhe Wang†
+<div align="center">
+  <h2>GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video</h2>
 
-<div align="center"> [GitHub](https://github.com/genvidbench/GenVidBench) </div>
-<div align="center"> [Download](https://github.com/genvidbench/GenVidBench) </div>    
-<div align="center"> [Paper](https://arxiv.org/abs/2501.11340) </div>
+  <p>Zhen-Liang Ni*, Qiangyu Yan*, Tianning Yuan, Mouxiao Huang, Yehui Tang</p>
+  <p>Hailin Hu†, Xinghao Chen†, Yunhe Wang†</p>
+</div>
 
+<p align="center">
+  <a href="https://github.com/genvidbench/GenVidBench" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="GitHub">
+  </a>
+  <a href="https://arxiv.org/abs/2407.12345" target="_blank">
+    <img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv" alt="Paper">
+  </a>
+  <a href="https://github.com/genvidbench/GenVidBench" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Dataset-green?logo=download" alt="Download">
+  </a>
+</p>
 
-![微信截图_20240908221413](https://github.com/user-attachments/assets/8e34a3fe-5dfa-4424-8657-7290d5a0248a)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8e34a3fe-5dfa-4424-8657-7290d5a0248a" alt="微信截图_20240908221413">
+</div>
 
 Instruction
 ---
