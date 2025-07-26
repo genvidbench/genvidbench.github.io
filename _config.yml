@@ -1,3 +1,5 @@
 remote_theme: beautiful-jekyll
 font_family: "Times New Roman"
 title: GenVidBench ：A Challenging Benchmark for Detecting AI-Generated Video
+hide_title: true
+
