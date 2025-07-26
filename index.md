@@ -42,7 +42,7 @@ News
 ---
 <div style="text-align: justify;">
   <p>
-  2025/02/11: Update the download link and fixed the bug. Note that we uploaded the ID of Pair1 in the original dataset to the file path 'data/ sampled_dataset_uuid.zip'. Due to copyright restrictions, We can't provide these videos directly. You can select the corresponding video from these three data sets Vript/HD-VG-130M/VidProM based on these IDs. 
+  2025/02/11: Update the download link and fixed the bug. Note that we uploaded the ID of Pair1 in the original dataset to the file path 'data/sampled_dataset_uuid.zip'. Due to copyright restrictions, We can't provide these videos directly. You can select the corresponding video from these three data sets Vript/HD-VG-130M/VidProM based on these IDs. 
   </p>
   <p>
   2025/01/25: The training code is released.
