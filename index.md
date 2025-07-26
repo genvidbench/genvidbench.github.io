@@ -1,9 +1,5 @@
 <div align="center">
-  <h1>{{ site.title }}</h1>
-</div>
-
-<div align="center">
-  <h2>A Challenging Benchmark for Detecting AI-Generated Video</h2>
+  <h1>A Challenging Benchmark for Detecting AI-Generated Video</h1>
 
   <p>Zhen-Liang Ni*, Qiangyu Yan*, Tianning Yuan, Mouxiao Huang, Yehui Tang</p>
   <p>Hailin Hu✉️, Xinghao Chen✉️, Yunhe Wang✉️</p>
