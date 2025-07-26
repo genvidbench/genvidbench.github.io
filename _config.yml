@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
-font_family: "Times New Roman"
+remote_theme: just-the-docs/just-the-docs
 title: GenVidBench
+color_scheme: dark
+font_family: "Times New Roman"
+
