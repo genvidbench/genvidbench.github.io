@@ -11,7 +11,7 @@
   <a href="https://github.com/genvidbench/GenVidBench" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="GitHub">
   </a>
-  <a href="https://arxiv.org/abs/2407.12345" target="_blank">
+  <a href="https://arxiv.org/abs/2501.11340" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv" alt="Paper">
   </a>
   <a href="https://github.com/genvidbench/GenVidBench" target="_blank">
