@@ -14,7 +14,7 @@
   <a href="https://arxiv.org/abs/2407.12345" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv" alt="Paper">
   </a>
-  <a href="https://github.com/genvidbench/GenVidBench" target="_blank">
+  <a href="https://huggingface.co/datasets/jian-0/GenVidBench" target="_blank">
     <img src="https://img.shields.io/badge/Download-Dataset-green?logo=download" alt="Download">
   </a>
 </p>
