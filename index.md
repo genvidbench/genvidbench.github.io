@@ -46,11 +46,11 @@ Instruction
 Results
 ---
 <div align="center">
-  <img width="1200" height="400" alt="result_6m" src="https://github.com/user-attachments/assets/00419f03-7068-4e02-9226-e15c58e116e4" />
+  <img width="1200" height="350" alt="result_6m" src="https://github.com/user-attachments/assets/00419f03-7068-4e02-9226-e15c58e116e4" />
 
   <img width="550" height="400" alt="f1" src="https://github.com/user-attachments/assets/4de33683-160e-4966-8a95-6fca39cfc869" />
 
-  <img width="550" height="400" alt="results_143k" src="https://github.com/user-attachments/assets/787c131c-78b2-4e09-b4eb-0b3c6755e19a" />
+  <img width="550" height="350" alt="results_143k" src="https://github.com/user-attachments/assets/787c131c-78b2-4e09-b4eb-0b3c6755e19a" />
 </div>
 
 News
