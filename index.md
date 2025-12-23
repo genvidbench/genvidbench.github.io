@@ -50,7 +50,7 @@ Results
 
   <img width="550" height="400" alt="f1" src="https://github.com/user-attachments/assets/4de33683-160e-4966-8a95-6fca39cfc869" />
 
-  <img width="550" height="350" alt="results_143k" src="https://github.com/user-attachments/assets/787c131c-78b2-4e09-b4eb-0b3c6755e19a" />
+  <img width="550" height="350" alt="results_143k" src="https://github.com/user-attachments/assets/11c0c6b5-61e6-4452-9ed9-b0676e9830ae" />
 </div>
 
 News
