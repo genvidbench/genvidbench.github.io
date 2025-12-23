@@ -31,9 +31,9 @@ Instruction
     The rapid advancement of video generation models has made it increasingly challenging to distinguish AI-generated videos from real ones. This issue underscores the urgent need for effective AI-generated video detectors to prevent the dissemination of false information through such videos. However, the development of high-performance generative video detectors is currently impeded by the lack of large-scale, high-quality datasets specifically designed for generative video detection. To this end, we introduce GenVidBench, a challenging AI-generated video detection dataset with several key advantages:
   </p>
   <ul>
-    <li><strong>Cross Source and Cross Generator:</strong> Mitigates the interference of video content on the detection. The cross-generator ensures diversity in video attributes between the training and test sets.</li>
-    <li><strong>State-of-the-Art Video Generators:</strong> Includes videos from 8 state-of-the-art AI video generators.</li>
-    <li><strong>Rich Semantics:</strong> Videos are analyzed from multiple dimensions and categorized by content.</li>
+    <li><strong>A huge volume of videos:</strong> The dataset contains 6.78 million videos and is currently the largest dataset for AI-generated video detection.</li>
+    <li><strong>Cross-Source and Cross-Generator:</strong> The cross-generation source reduces the interference of video content on the detection. The cross-generator ensures diversity in video attributes between the training and test sets, preventing them from being overly similar.</li>
+    <li><strong>State-of-the-Art Video Generators:</strong> The dataset includes videos from 11 state-of-the-art AI video generators, ensuring that it covers the latest advancements in the field of video generation. These generators ensure that the dataset is not only large but also diverse, aiding in the development of more generalized and effective detection models.</li>
   </ul>
   <p>
     We conduct a comprehensive evaluation of different advanced video generators and present a challenging setting.
